@@ -1,7 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://linktr.ee/mateopag/">Mateo</a></h2>
 
-<p>I'm currently a software engineer at <a href="https://www.healthnote.com/">Health Note</a> based in Buenos Aires, Argentina 🇦🇷.</p>
-
 <h3>🚀 Everyday Tools </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
